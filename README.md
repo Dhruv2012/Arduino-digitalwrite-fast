@@ -1,2 +1,2 @@
 # Arduino-digitalwrite-fast
-Alternate functions for writing to gpio pins in arduino ARM and AVR. 
+Alternate functions for fast digital writing to gpio pins in arduino ARM and AVR. 
